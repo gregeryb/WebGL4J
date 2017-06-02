@@ -1,0 +1,10 @@
+# Gradle temporary directory
+.gradle/
+
+
+# IDEA project files
+bin
+gwt-unitCache
+war/examples
+war/WEB-INF/classes
+war/WEB-INF/deploy

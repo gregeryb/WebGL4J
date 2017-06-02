@@ -1,0 +1,6 @@
+# Gradle temporary directory
+.gradle/
+
+
+# IDEA project files
+bin
